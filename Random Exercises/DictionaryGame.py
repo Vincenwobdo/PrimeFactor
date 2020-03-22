@@ -15,4 +15,4 @@ while True and maxAttempt <= 4:
         maxAttempt += 1
 
 print ("Random key value pair from dictonary is ", word, " - ", dict[word])
-print('Game over!')
+print('You have exhausted your attempts. Game over!!')
